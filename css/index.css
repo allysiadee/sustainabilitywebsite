@@ -4,4 +4,14 @@ body {
 
 .carousel-inner {
   height: 400px;
+  margin: auto;
+  vertical-align: middl
+}
+
+.content {
+  background-color: white;
+}
+
+.top-buffer {
+  margin-top:20px;
 }

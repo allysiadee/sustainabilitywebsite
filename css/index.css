@@ -1,3 +1,7 @@
+body {
+  background-color: #e6ffcc !important;
+}
+
 .carousel-inner {
   height: 400px;
 }

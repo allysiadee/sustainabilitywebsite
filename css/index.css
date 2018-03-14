@@ -39,3 +39,7 @@ body {
 .top-buffer {
  margin-top:20px;
 }
+
+.jumbotron {
+  background-image: url('/images/canopy.jpeg');
+}

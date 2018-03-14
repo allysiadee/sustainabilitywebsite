@@ -1,1 +1,41 @@
 
+
+.body {
+font-family: 'Didact Gothic';font-size: 22px;
+}
+
+
+.row img {
+ width: 60%;
+ height: 60%;
+}
+
+
+h1,
+.navbar-brand,
+.navbar-nav a {
+ font-family: 'Merriweather', serif;
+}
+
+body {
+ background-color: #e6ffcc !important;
+}
+
+
+.carousel-inner {
+ height: 400px;
+ margin: auto;
+
+}
+.carousel-inner img {
+ height: 100%;
+ width: 100%;
+}
+
+.content {
+ background-color: white;
+}
+
+.top-buffer {
+ margin-top:20px;
+}
